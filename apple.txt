@@ -3,7 +3,4 @@ hello
 my 
 nmae
 is
-wordl
-
-
-
+wordnew editl
